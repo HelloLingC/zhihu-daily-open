@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">知乎日报Open</string>
+    <string name="item_bottom_new">最新</string>
+    <string name="item_bottom_hot">最热</string>
+    <string name="item_bottom_column">栏目</string>
+
+    <string name="exception_info">你好，很遗憾程序发生了崩溃\n你可以复制以下崩溃信息，并提交给开发者尝试修复。</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
